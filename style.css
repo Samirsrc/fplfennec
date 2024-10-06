@@ -85,3 +85,12 @@ button{
     border-radius: 10px;
   
 }
+
+#div2 {
+    background-color: rgb(0, 0, 0);
+    display: flex;
+    justify-content:space-evenly;
+    align-items: centre;
+
+}
+
